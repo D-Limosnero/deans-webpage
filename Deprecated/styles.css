@@ -1,0 +1,45 @@
+.cars{
+	background-color: slategrey;
+	color: white;
+	padding: 10px;
+}
+
+.planes{
+	background-color: tomato;
+	color: white;
+	padding: 10px;
+}
+
+body{
+	background-color: black; 
+	font family: helvetica;
+	margin: 100px;
+}
+
+h1{			
+	color: white;
+	font-family: helvetica;
+	text-align: right;
+	border: 5px solid maroon;
+	padding: 30px;
+}
+
+h2{
+	background-color: darkslategrey;
+	color: white;
+	font-family: helvetica;
+	text-align: left;
+	padding: 10px;
+}
+
+h3{
+	background-color: tan;
+	color:black;
+	font-family: helvetica;
+	padding: 10px;
+}
+
+p{
+	color: dimgrey; 
+	font-family: helvetica;
+}
